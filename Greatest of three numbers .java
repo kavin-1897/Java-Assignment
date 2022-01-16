@@ -1,11 +1,11 @@
-public class GreatestNuber 
+public class GreatestNumber 
 {
     public static void main(String[] args)
     {
         int a=14;
         int b=61;
         int c=20;
-        
+
         if(a>=b&&a>=c)
     {
         System.out.print(a+ " is greatest number"); 
